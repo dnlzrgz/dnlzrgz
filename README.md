@@ -5,4 +5,5 @@
 ## Get in touch
 - [Twitter - I'm just there for now](https://twitter.com/daniarlert)
 - [Instagram - Generative Art](https://instagram.com/daniarlert)
+- [TikTok - More Generative Art](https://www.tiktok.com/@arlertdaniel)
 - [Codepen - Front-End demos](https://codepen.io/danielarlert)
