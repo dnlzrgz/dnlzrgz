@@ -1,24 +1,35 @@
 # Daniel Arlert - @daniarlert
 
-👋 Hi, I'm Daniel — a CS student at the UNED and a Go developer that builds APIs and CLIs. Previously worked as a Web/App designer and as Front-End developer specialized in React. I also like to make generative art and play the ukulele.
+👋 Hi, I'm Daniel — a CS student at the UNED in Spain and a Python developer that builds APIs and CLIs. I previously worked as a Web designer and Front-End developer specialized in React and modern Web Applications. I also like to make generative art, 3D with Blender and play the ukulele.
 
 ## 🧰 My Stack
-<div style="display: flex;">
-<img src="./assets/go.svg" alt="Golang Logo" width="50" height="50"/>
-<img src="./assets/docker.svg" alt="Docker Logo" width="50" height="50"/>
-<img src="./assets/google-cloud.svg" alt="Google Cloud Logo" width="50" height="50"/>
-<img src="./assets/postgresql.svg" alt="PostgreSQL Cloud Logo" width="50" height="50"/>
-<img src="./assets/react.svg" alt="React Logo" width="50" height="50"/>
-<img src="./assets/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="./assets/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/>
-<img src="./assets/next-js.svg" alt="Next.js Logo" width="50" height="50"/>
-<img src="./assets/material-ui.svg" alt="Material-UI Logo" width="50" height="50"/>
-<img src="./assets/tailwindcss.svg" alt="TailwindCSS Logo" width="50" height="50"/>
-<div>
+### Languages
+- Python
+- JavaScript
+- CSS
+
+### Frameworks
+- Flask
+- React
+- Next.js 
+- Gatsby.js
+- Material UI
+- TailwindCSS
+
+### Libraries
+- Pandas
+- NumPy
+
+### Tools
+- Git.
+- Docker.
+- Jupyter notebooks.
+
+> I also have basic knowledge about SQL, Go, Java and Dart|Flutter.
 
 ## 📭 Get in touch
 - [Twitter - I'm just there for now](https://twitter.com/daniarlert)
 - [Instagram - Generative Art](https://instagram.com/daniarlert)
 - [TikTok - More Generative Art](https://www.tiktok.com/@arlertdaniel)
-- [Codepen - Front-End demos](https://codepen.io/danielarlert)
+- [Codepen - Old Front-End demos](https://codepen.io/danielarlert)
 
