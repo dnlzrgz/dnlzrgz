@@ -1,37 +1,59 @@
-# Daniel
+# Hi 👋, I'm Daniel!
 
-## 👋 About me
+<a href="https://daniarlert.com" target="_blank">
+<img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/daniarlert" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/danielarlert" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/daniarlert" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://tiktok.com/@arlertdaniel" target="_blank">
+<img src=https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
-Hi, I'm Daniel — A CS student at the UNED, in Spain, and a Python developer. I have previously worked as a Web Designer and Front-End developer specialized in React. I also like to make generative art with TouchDesigner.
+## About me
 
-## 💻 My Stack
+I am a Back-End developer specialized in building hight-speed and reliable APIs and microservices using technologies such as Django and FastAPI. In addition, I have experience working on the Front-End with React, Next.js and Gastsby for the creation of static websites and modern web apps.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+My main programming language is Python. I also have a strong familiarity with JavaScript as well as solid knowledge in Docker and PostgreSQL.
+
+## What I'm Up To Now
+
+- 👨‍🎓I am currently pursuing a degree in Computer Science at the UNED.
+
+- 🌱 I am learning how to manage SQL databases better. Specifically PostgreSQL.
+
+- 🏠 I am working on a Django + Wagtail portfolio called [Artifica](https://github.com/daniarlert/artifica).
+
+- 🎙️ I am also working on a API to extract information from a podcasts library using AI.
+
+- 🎨 I also create generative art with tools like Processing (Java) and TouchDesigner (Python).
+
+## Languages and Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/django-rest-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Wagtail](https://img.shields.io/badge/wagtail-43B1B0.svg?style=for-the-badge&logo=wagtail&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![Gatsby](https://img.shields.io/badge/gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+![Next.JS](https://img.shields.io/badge/next.js-000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-> I also have basic knowledge of Go, Java and Dart/Flutter.
-
-## 🌐 Socials
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daniarlert)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniarlert)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arlertdaniel)
-[![Codepen](https://img.shields.io/badge/Codepen-%23000.svg?logo=Codepen&logoColor=white)](https://codepen.io/danielarlert)
-
-## 🐙GitHub Stats
+## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniarlert&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=daniarlert&theme=default&hide_border=true&include_all_commits=false&count_private=false)
