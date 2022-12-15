@@ -1,10 +1,10 @@
 # Hi 👋, I'm Daniel!
 
 <a href="https://daniarlert.com" target="_blank">
-<img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/website-000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/daniarlert" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/danielarlert" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
@@ -18,7 +18,7 @@
 
 ## About me
 
-I am a Back-End developer specialized in building hight-speed and reliable APIs and microservices using technologies such as Django and FastAPI. In addition, I have experience working on the Front-End with React, Next.js and Gastsby for the creation of static websites and modern web apps.
+I am a Back-End developer specialized in building high-speed and reliable APIs and microservices using technologies such as Django and FastAPI. In addition, I have experience working on the Front-End with React, Next.js and Gastsby for the creation of static websites and modern web apps.
 
 My main programming language is Python. I also have a strong familiarity with JavaScript as well as solid knowledge in Docker and PostgreSQL.
 
