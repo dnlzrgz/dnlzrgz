@@ -15,6 +15,12 @@
 <a href="https://tiktok.com/@arlertdaniel" target="_blank">
 <img src=https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://twitter.com/daniarlert" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://mastodon.social/@daniarlert" target="_blank">
+<img src=https://img.shields.io/badge/mastodon-%23000000.svg?&style=for-the-badge&logo=mastodon&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
+</a>
 
 ## About me
 
@@ -26,7 +32,7 @@ My main programming language is Python. I also have a strong familiarity with Ja
 
 - 👨‍🎓I am currently pursuing a degree in Computer Science at the UNED.
 
-- 🌱 I am learning how to manage SQL databases better. Specifically PostgreSQL.
+- 🌱 I'm learning Data Science.
 
 - 🏠 I am working on a Django + Wagtail portfolio called [Artifica](https://github.com/daniarlert/artifica).
 
