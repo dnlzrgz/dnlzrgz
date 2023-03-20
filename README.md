@@ -1,25 +1,25 @@
 # Hi 👋, I'm Daniel!
 
 <a href="https://daniarlert.com" target="_blank">
-<img src=https://img.shields.io/badge/website-000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/website-000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt="Website" style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/daniarlert" target="_blank">
-<img src=https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=white alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/daniarlert" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%23000000.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt="Kaggle" style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/danielarlert" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt="Codepen" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/daniarlert" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 <a href="https://tiktok.com/@arlertdaniel" target="_blank">
-<img src=https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt="TikTok" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/daniarlert" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://mastodon.social/@daniarlert" target="_blank">
-<img src=https://img.shields.io/badge/mastodon-%23000000.svg?&style=for-the-badge&logo=mastodon&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 
 ## About me
