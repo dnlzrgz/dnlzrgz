@@ -2,7 +2,7 @@
 
 I'm a passionate Python developer specialized in building high-speed and reliable APIs and microservices using the Django and FastAPI frameworks with a solid background in modern Front-End technologies.
 
-Currently, I'm pursuing a Computer Science degree at the UNED, Spain, to expand my knowledge and deliver bettern software solutions and products.
+Currently, I'm pursuing a Computer Science degree at the UNED, Spain, to expand my knowledge and deliver better software solutions and products.
 
 ## 🧰 Toolbox
 
