@@ -1,13 +1,16 @@
 # Hi 👋, I'm Daniel
 
-I'm a passionate Python developer specialized in building high-speed and reliable APIs and microservices using the Django and FastAPI frameworks with a solid background in modern Front-End technologies.
+I'm a passionate Python developer specialized in building high-speed and reliable APIs and microservices using the Django and FastAPI frameworks with a solid background in modern Front-End technologies like React & Next.js.
 
 Currently, I'm pursuing a Computer Science degree at the UNED, Spain, to expand my knowledge and deliver better software solutions and products.
 
 ## 🧰 Toolbox
 
 - Proeficient in Python with experience in Django and FastAPI frameworks.
-- Skilled in working with databases (mainly PostgreSQL), caching mechanisms and deployment tools like Docker.
+- Skilled in working with databases (mainly PostgreSQL) and caching mechanisms like Redis.
+- Strong understanding of web security principles and practices.
+- Knowledgeable about deployment tools like Docker.
+- Comfortable with test-driven development (TDD) and writing unit tests to ensure code reliability.
 - Familiar with modern Front-End technologies & frameworks like React and TailwindCSS.
 - Have some knowledge of other programming languages like Golang, Rust, and Java.
 
@@ -17,10 +20,7 @@ I'm constantly exploring the latest trends in technology, such as machine learni
 
 ## 🌐 Connect with me
 
-<a href="https://daniarlert.com" target="_blank">
-<img src=https://img.shields.io/badge/website-000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt="Portfolio" style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/daniarlert" target="_blank">
+<a href="https://github.com/dnlzrgz" target="_blank">
 <img src=https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=white alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/daniel-zaragoza-4395b4260/" target="_blank">
@@ -29,9 +29,9 @@ I'm constantly exploring the latest trends in technology, such as machine learni
 <a href="https://www.kaggle.com/daniarlert" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%23000000.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt="Kaggle" style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/danielarlert" target="_blank">
+<a href="https://codepen.com/dnlzrgz" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt="Codepen" style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/daniarlert" target="_blank">
+<a href="https://instagram.com/dnlzrgz" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt="Instagram" style="margin-bottom: 5px;" />
 </a>
