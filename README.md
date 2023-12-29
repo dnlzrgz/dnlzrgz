@@ -30,8 +30,14 @@ I'm constantly exploring the latest trends in technology, such as machine learni
 <img src=https://img.shields.io/badge/kaggle-%23000000.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt="Kaggle" style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/dnlzrgz" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt="Codepen" style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white alt="Codepen" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/dnlzrgz" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt="Instagram" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.threads.net/@dnlzrgz" target="_blank">
+<img src=https://img.shields.io/badge/threads-%23000000.svg?&style=for-the-badge&logo=threads&logoColor=white alt="Threads" style="margin-bottom: 5px;" />
+</a>
+<a href="https://mastodon.social/@dnlzrgz" target="_blank">
+<img src=https://img.shields.io/badge/mastodon-%23000000.svg?&style=for-the-badge&logo=mastodon&logoColor=white alt="Mastodon" style="margin-bottom: 5px;" />
 </a>
