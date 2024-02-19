@@ -46,7 +46,9 @@ alias ..="../.."
 alias ...="../../.."
 alias ....="../../../.."
 
-alias projects="cd ~/projects"
+alias dl="cd ~/Downloads/"
+alias docs="cd ~/Documents/"
+alias projects="cd ~/Documents/Code"
 
 # Config files aliases
 alias zconf="nvim ~/.zshrc"
@@ -71,6 +73,7 @@ alias pou="poetry update"
 alias posu="poetry self update"
 
 # Docker aliases
+alias "docker-compose"="docker compose"
 alias dils="docker image ls"
 alias dipr="docker image prune"
 alias dcls="docker container ls"
@@ -82,6 +85,11 @@ alias tls="tmux ls"
 alias ta="tmux a"
 alias tat="tmux a -t"
 
+# Ollama aliases
+alias chat="ollama run llama2"
+alias codechat="ollama run codellama:python"
+alias michat="ollama run mistral"
+
 # Some utils aliases
 alias gg="lazygit"
 alias news="newsboat"
@@ -90,7 +98,7 @@ alias myip="curl https://ipinfo.io/json"
 alias weather="curl wttr.in"
 
 # Flip a coin
-alias coin="python -c \"import random; print('Heads' if random.choice([True, False]) else 'Tails')\""
+alias coin="python3 -c \"import random; print('Heads' if random.choice([True, False]) else 'Tails')\""
 
 # Run `p10k configure`
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

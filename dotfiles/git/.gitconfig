@@ -1,6 +1,6 @@
 [user]
-	name = [username]
-	email = [email]
+	name = 
+	email = 
 
 [alias]
 	# Abbreviated SHA, description and history graph
