@@ -86,9 +86,7 @@ alias ta="tmux a"
 alias tat="tmux a -t"
 
 # Ollama aliases
-alias chat="ollama run llama2"
-alias codechat="ollama run codellama:python"
-alias michat="ollama run mistral"
+alias chat="ollama run llama3"
 
 # Some utils aliases
 alias gg="lazygit"
@@ -102,3 +100,10 @@ alias coin="python3 -c \"import random; print('Heads' if random.choice([True, Fa
 
 # Run `p10k configure`
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# Atuin
+eval "$(atuin init zsh)"
+
+autoload -Uz compinit
+zstyle ':completion:*' menu select
+fpath+=~/.zfunc

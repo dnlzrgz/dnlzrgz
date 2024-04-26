@@ -7,9 +7,6 @@ download-timeout 10
 show-read-feeds no
 feed-sort-order unreadarticlecount-asc
 
-# Externel browser
-browser "firefox %u"
-
 # Unbind keys
 unbind-key ENTER
 unbind-key j
