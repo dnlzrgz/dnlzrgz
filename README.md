@@ -1,14 +1,16 @@
-# Hi 👋, I'm Daniel  
-A Python developer passionate about crafting high-speed and reliable APIs, Microservices, and Web Apps with Django, Django Ninja, and FastAPI.
+# 👋 Hi there
 
-🚀 **What I do**: I specialize in architecting, developing, and maintaining back-end systems based on Django.  
-  
-💼 **Experience**: I’ve had the pleasure of working on various projects, from small-scale startups to local businesses. Some of my achievements include optimizing API performance for scalability, integrating advanced security features, implementing containerization, and collaborating with cross-functional teams to ensure project deadlines are met.  
-  
-🔧 **Technologies**: In addition to Python, Django, Django Ninja, and FastAPI, I'm proficient in other tools and technologies, including databases like PostgreSQL, ORMs such as SQLAlchemy and Django’s ORM, and front-end technologies such as Tailwind CSS, Alpine.js, and htmx.  
-  
-📚 **Always learning**: I’m currently pursuing a Computer Science degree at UNED, Spain, while also keeping up-to-date with the latest trends and technologies.  
-  
-🌟 **Let’s Connect!**: Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/daniel-zaragoza-4395b4260/) or check out my GitHub profile [here](https://github.com/dnlzrgz) to see my latest projects. I’m also active on [Threads](https://www.threads.net/@dnlzrgz) and [Mastodon](https://mastodon.social/@dnlzrgz).  
-  
-Happy coding! 💻✨
+I'm a Back-End Software Developer based in Alicante, Spain, with a passion for coding and continuous learning. Currently completing my CS degree at UNED, I've ventured from Front-End development into a diverse range of technologies, including React, Go, Java, and now Python.
+
+## Currently
+
+- 🚀 **Rebuilding my Portfolio**: Recently, I've rebuilt my personal portfolio from scratch, focusing on simplicity and speed without compromising on features. If you're interested in the code, you can check the repository [here](https://github.com/dnlzrgz/portfolio).
+- 📊 **Happimo, a Mood Tracking App**: I'm developing a self-hosted mood tracking and journal application, aiming for simplicity and insightful statistics.
+- 🎮 **Learning Godot**: For some time, I've wanted to delve a bit into game development with Godot. At the moment, I'm learning the basics and a bit of GDScript.
+- 🇩🇪 **Learning German**: Recently, I passed my C1 certification exam and now I'm trying with German, aiming for B1 proficiency by summer's end.
+
+## Let's connect ✨
+
+- 🖥️ [Portfolio](https://dnlzrgz.up.railway.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-zaragoza-4395b4260/)
+- 🐘 [Mastodon](https://mastodon.social/@dnlzrgz)
